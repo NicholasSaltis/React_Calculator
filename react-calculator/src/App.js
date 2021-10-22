@@ -17,6 +17,7 @@ const App = () => {
         <NumberGrid clickHandler={clickHandler}/> 
         <OperatorGrid /> 
       </ButtonField>
+      <p>Calculator by Sam and Nick</p>
     </Wrapper>
   )
 }
